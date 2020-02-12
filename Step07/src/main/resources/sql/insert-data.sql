@@ -1,0 +1,1 @@
+insert  into `item`(`Id`,`category`,`category`,`name`,`price`) values ('P100','phone','smart phone','motorola',8000.00)
